@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=Rihini-hub-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">Hi 👋, I'm Rihini</h1>
+<h1 align="center">Hi 👋, I'm Rohini</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohini&label=Profile%20views&color=0e75b6&style=flat" alt="rohini" /> </p>
