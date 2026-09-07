@@ -19,11 +19,7 @@ Content
 
 - 📝 I regularly write articles on [Ro_hi_ni gowda](Ro_hi_ni gowda)
 
-- 💬 Ask me about **DevOps**
-
 - 📫 How to reach me **rohinigowda460@gmail.com**
-
-- ⚡ Fun fact **Blog in Instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
