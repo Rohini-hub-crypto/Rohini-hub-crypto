@@ -9,8 +9,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohini&label=Profile%20views&color=0e75b6&style=flat" alt="rohini" /> </p>
 Content
 
-- 🔭 I’m currently working on **3D Background**
-
 - 🌱 I’m currently learning **Djongo**
 
 - 👯 I’m looking to collaborate on **Front end developer**
