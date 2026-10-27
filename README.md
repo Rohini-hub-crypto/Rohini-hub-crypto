@@ -17,8 +17,6 @@ Content
 
 - 👨‍💻 All of my projects are available at [Rohini-hub-crypto](Rohini-hub-crypto)
 
-- 📝 I regularly write articles on [Ro_hi_ni gowda](Ro_hi_ni gowda)
-
 - 📫 How to reach me **rohinigowda460@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
